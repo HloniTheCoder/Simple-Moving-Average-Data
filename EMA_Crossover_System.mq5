@@ -1,11 +1,11 @@
 
 //Import Indicator Data Classes, Price Data Classes, and Line Object Classes
 
-#include <IncludeIndicatorData/IndicatorDataSystems.mqh>
+#include <IncludeTutorial/IndicatorDataSystems.mqh>
 
-#include <IncludePriceData/PriceDataSystems.mqh>
+#include <IncludeTutorial/PriceDataSystems.mqh>
 
-#include <IncludeLineObjects/LineSystems.mqh>
+#include <IncludeTutorial/LineSystems.mqh>
 
 
 //Initialise the EMA indicators, and Price Data Classes
